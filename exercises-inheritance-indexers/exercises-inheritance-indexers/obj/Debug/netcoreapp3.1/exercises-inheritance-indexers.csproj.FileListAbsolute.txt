@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.exe
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.deps.json
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.runtimeconfig.json
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.dll
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\bin\Debug\netcoreapp3.1\exercises-inheritance-indexers.pdb
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.dll
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.pdb
+C:\Users\Farrukh\source\repos\exercises-inheritance-indexers\exercises-inheritance-indexers\obj\Debug\netcoreapp3.1\exercises-inheritance-indexers.genruntimeconfig.cache

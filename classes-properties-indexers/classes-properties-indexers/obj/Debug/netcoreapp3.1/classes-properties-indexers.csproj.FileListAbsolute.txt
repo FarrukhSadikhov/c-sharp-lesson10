@@ -1,0 +1,13 @@
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.csprojAssemblyReference.cache
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.AssemblyInfoInputs.cache
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.AssemblyInfo.cs
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.csproj.CoreCompileInputs.cache
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.exe
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.deps.json
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.runtimeconfig.json
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.runtimeconfig.dev.json
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.dll
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\bin\Debug\netcoreapp3.1\classes-properties-indexers.pdb
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.dll
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.pdb
+C:\Users\Farrukh\source\repos\classes-properties-indexers\classes-properties-indexers\obj\Debug\netcoreapp3.1\classes-properties-indexers.genruntimeconfig.cache
